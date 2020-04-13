@@ -1,2 +1,6 @@
-# Comparison-of-models-with-Keras
-Comparison of vgg16 and resnet50 with concrete image data set for Classification.
+# Comparison-of-models-with-Keras-and-PyTorch
+
+1. Dataset used here is of Image classification between cracks and no-cracks in Concrete slabs.
+2. Comparison of VGG16 and Resnet50 with Keras framework.
+3. Resnet18 with PyTorch framework.
+4. Comparison of accuracy and make prediction for each model in each framework.
